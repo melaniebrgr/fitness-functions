@@ -1,6 +1,6 @@
 {
   "name": "fitness-functions",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A collection for functions that measure how close front-end codes aligns with architectural goals.",
   "main": "index.js",
   "scripts": {
