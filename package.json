@@ -12,5 +12,8 @@
     "architecture"
   ],
   "author": "Melanie Burger",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^3.0.0"
+  }
 }
