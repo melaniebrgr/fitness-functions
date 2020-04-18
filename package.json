@@ -1,0 +1,16 @@
+{
+  "name": "fitness-functions",
+  "version": "1.0.0",
+  "description": "A collection for functions that measure how close front-end codes aligns with architectural goals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quality",
+    "evolutionary",
+    "architecture"
+  ],
+  "author": "Melanie Burger",
+  "license": "MIT"
+}
