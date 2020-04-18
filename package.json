@@ -15,5 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "puppeteer": "^3.0.0"
-  }
+  },
+  "type": "module",
+  "engines" : { "node" : ">=13" }
 }
